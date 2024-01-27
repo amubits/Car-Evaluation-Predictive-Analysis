@@ -1,4 +1,4 @@
-# Car Evaluation Predictive Analysis
+# Multiclass classification Car Evaluation Predictive Analysis
 
 ## Overview
 This repository hosts the code and findings from a predictive analysis conducted on a car evaluation dataset, available at [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Car+Evaluation). 
